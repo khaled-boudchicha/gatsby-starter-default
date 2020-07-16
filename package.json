@@ -24,7 +24,7 @@
     "gatsby-transformer-remark": "^2.1.15",
     "gatsby-transformer-sharp": "^2.1.8",
     "google-map-react": "^1.1.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "mdbreact": "^4.13.0",
     "nuka-carousel": "^4.4.3",
     "react": "^16.6.3",
