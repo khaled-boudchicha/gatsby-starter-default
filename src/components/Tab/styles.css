@@ -1,0 +1,57 @@
+table {
+  border: 1px #e8e8e8 solid;
+  border-radius: 2px;
+  clear: both;
+  width: 100%;
+  font-size: 14px;
+}
+
+table td,
+table th {
+  padding: 8px 10px;
+  margin: 0;
+  color: #666666;
+  text-align: left;
+  border-right: 1px #e8e8e8 solid;
+}
+
+table td:hover,
+table th:hover {
+  color: #fff;
+}
+
+table td div.dealer-details-pane:hover {
+  color: #666666;
+}
+table th {
+  font-size: 8px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+table tr:nth-child(even) {
+  background: #f5f6f7;
+}
+table tr:hover {
+  background: #54585a;
+  background-color: #54585a;
+  color: #fff;
+}
+table tr:hover td,
+table tr:hover th {
+  border-right: 1px #fff solid;
+  color: #fff !important;
+}
+table tr:hover a,
+table tr:hover a:link,
+table tr:hover a:visited {
+  color: #fff;
+  text-decoration: underline;
+}
+table tr:nth-child(odd) {
+  border-bottom: 1px #e8e8e8 solid;
+}
+table a,
+table a:link,
+table a:visited {
+  text-decoration: underline;
+}
