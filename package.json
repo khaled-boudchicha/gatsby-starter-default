@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "author": "Billel Boudchicha",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bluebird": "^3.5.3",
     "classnames": "^2.2.6",
     "crypto": "^1.0.1",
